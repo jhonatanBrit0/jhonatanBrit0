@@ -1,16 +1,19 @@
-### Hi there 👋
+# JHONATAN BRITO
 
-<!--
-**jhonatanBrit0/jhonatanBrit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Estudante de Análise e Desenvolvimento de Sistema, com uma formação em Gestão de Pessoas
+MBA em Gestão de processos pela USP - Universidade de São Paulo.
+Estou Focado em Finalizar minha segunda formação academica e seguir carreira na area da tecnologia, pretendo fazer uma Pós em data scientist.
 
-Here are some ideas to get you started:
+## Habilidades
+- Linguagens de programação: PHP
+- Frameworks e bibliotecas: Adianti Framework
+- Ferramentas: Sublime / VScode / Mine Plane / Hexagon / 
+- Outras habilidades: Iniciante em Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Destacados
+- Projeto H2O. https://projetoh2o.com/app/ - Demonstração de software voltado para gestão comercial do micro empreendedor.
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/jhonatan-brito-12a30891/
+- Email: brito@jhonatanbrito.com
